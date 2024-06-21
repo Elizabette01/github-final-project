@@ -1,7 +1,7 @@
 # github-final-project
 
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+**A calculator that calculates simple interest given principal, annual rate of interest and time period in years.**
 
 
 ### Input:
@@ -23,6 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure the update tests are appriopriat
 
-##License
+## License
 
-Apache License 2.0
+**Apache License 2.0**
